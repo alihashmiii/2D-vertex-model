@@ -1,1 +1,1 @@
-# Vertex-Model-2D
+# vertex-model-2D
