@@ -2,7 +2,7 @@
 
 `Author: Ali Hashmi`
 
-Added to the code: T1 (neighbour switching) and T2 transition (cell removal)
+Added to the code: T1 (neighbour switching) T2 (cell removal) transitions & cell divisions
 
 To add in future: T3 transition
 
