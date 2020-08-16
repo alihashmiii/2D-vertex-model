@@ -1,4 +1,4 @@
-# vertex-model-2D
+# 2D-vertex-model
 
 `Author: Ali Hashmi`
 
