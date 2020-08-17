@@ -11,7 +11,7 @@ To add in future: T3 transition
 for further reading: https://sci-hub.tw/10.1016/j.pbiomolbio.2013.09.003
 
 
-![alt-text](https://github.com/alihashmiii/vertex-model-2D/blob/master/resultmesh.gif)
+![alt-text](https://github.com/alihashmiii/2D-vertex-model/blob/master/resultmesh.png)
 
 
 
