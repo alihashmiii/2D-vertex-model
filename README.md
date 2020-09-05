@@ -4,7 +4,7 @@
 
 Developed in Mathematica 12.1 (some functionality might be unique to 12.1, but the notebook can be easily tweaked to work with prior versions). 
 
-`Includes: T1 (neighbour switching), T2 (cell removal) transitions, T3 transitions at free boundaries and cell divisions`
+`Includes: T1 (neighbour switching), T2 (cell removal), T3 transitions (at free boundaries) and cell divisions`
 
 
 for further reading: https://sci-hub.tw/10.1016/j.pbiomolbio.2013.09.003
